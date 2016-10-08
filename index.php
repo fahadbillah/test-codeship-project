@@ -1,5 +1,7 @@
 <?php 
 echo 'hello world';
 echo "<br>";
-echo "hipchap notification test!!";
+echo "hipchat notification test!!";
+echo "<br>";
+echo "now github should send notification to hipchat";
 ?>
